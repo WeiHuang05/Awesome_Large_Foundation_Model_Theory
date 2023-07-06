@@ -20,6 +20,10 @@ In Context Learning Theory examines the ways in which learning is enhanced when 
 
   Ekin Akyurek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, Denny Zhou
 
+- Trained Transformers Learn Linear Models In-Context. [(link)](https://arxiv.org/pdf/2306.09927.pdf)
+
+  Ruiqi Zhang, Spencer Frei, Peter L. Bartlett
+
 ## How to Contribute
 
 We welcome contributions from anyone interested in In Context Learning Theory. Here are some ways you can contribute:
