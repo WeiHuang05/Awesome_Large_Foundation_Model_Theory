@@ -27,6 +27,10 @@ In Context Learning Theory examines the ways in which learning is enhanced when 
 - Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning, *NeurIPS 2023* [(link)](https://arxiv.org/abs/2301.11916)
 
   Xinyi Wang, Wanrong Zhu, Michael Saxon, Mark Steyvers, William Yang Wang
+
+- In-Context Learning through the Bayesian Prism. [(link)](https://arxiv.org/abs/2306.04891)
+
+  Kabir Ahuja, Madhur Panwar, Navin Goyal  
   
 
 ## How to Contribute
