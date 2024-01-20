@@ -39,6 +39,8 @@ In Context Learning Theory examines the ways in which learning is enhanced when 
 
   Cheng Lu, Huayu Chen, Jianfei Chen, Hang Su, Chongxuan Li, Jun Zhu
 
+- Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization, [(link)](https://openreview.net/pdf?id=h8GeqOxtd4)
+
 
 
 ## How to Contribute
