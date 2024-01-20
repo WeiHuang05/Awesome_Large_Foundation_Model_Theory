@@ -1,4 +1,4 @@
-# Awesome In Context Learning Theory
+# Awesome In Large Foundation Model Theory
 
 Welcome to the Awesome In Context Learning Theory repository! This repository is dedicated to exploring and discussing the fascinating field of In Context Learning Theory.
 
