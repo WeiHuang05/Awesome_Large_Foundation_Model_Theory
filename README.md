@@ -46,10 +46,13 @@ In Context Learning Theory examines the ways in which learning is enhanced when 
 
 - Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization, [(link)](https://openreview.net/pdf?id=h8GeqOxtd4)
 
-
 - Learning Mixtures of Gaussians Using the DDPM Objective，*NeurIPS 2023*,  [(link)](https://arxiv.org/pdf/2307.01178.pdf)
 
   Kulin Shah, Sitan Chen, Adam Klivans
+
+- Faster Sampling without Isoperimetry via Diffusion-based Monte Carlo, [(link)](https://arxiv.org/abs/2401.06325)
+
+  Xunpeng Huang, Difan Zou, Hanze Dong, Yian Ma, Tong Zhang
 
 
 
