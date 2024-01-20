@@ -32,6 +32,11 @@ In Context Learning Theory examines the ways in which learning is enhanced when 
 
   Kabir Ahuja, Madhur Panwar, Navin Goyal
 
+- What and How does In-Context Learning Learn? Bayesian Model Averaging, Parameterization, and Generalization, [(link)](https://arxiv.org/abs/2305.19420)
+
+  Yufeng Zhang, Fengzhuo Zhang, Zhuoran Yang, Zhaoran Wang
+  
+
   
 ## Diffusion Model
 
