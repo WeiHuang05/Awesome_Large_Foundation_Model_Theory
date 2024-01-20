@@ -55,6 +55,16 @@ In Context Learning Theory examines the ways in which learning is enhanced when 
   Xunpeng Huang, Difan Zou, Hanze Dong, Yian Ma, Tong Zhang
 
 
+## Hallucination
+
+- Calibrated Language Models Must Hallucinate, [(link)](https://arxiv.org/abs/2311.14648)
+
+  Adam Tauman Kalai, Santosh S. Vempala
+
+
+  
+
+
 
 ## How to Contribute
 
