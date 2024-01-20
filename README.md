@@ -14,7 +14,7 @@ In Context Learning Theory examines the ways in which learning is enhanced when 
 - Explore the practical applications and implications of In Context Learning Theory in educational settings.
 - Provide a supportive environment for individuals to learn, contribute, and collaborate in the field of In Context Learning Theory.
 
-## Reading List
+## In Context Learning
 
 - What learning algorithm is in-context learning? Investigations with linear models. *ICLR 2023*. [(link)](https://arxiv.org/pdf/2211.15661.pdf)
 
@@ -30,8 +30,16 @@ In Context Learning Theory examines the ways in which learning is enhanced when 
 
 - In-Context Learning through the Bayesian Prism. [(link)](https://arxiv.org/abs/2306.04891)
 
-  Kabir Ahuja, Madhur Panwar, Navin Goyal  
+  Kabir Ahuja, Madhur Panwar, Navin Goyal
+
   
+## Diffusion Model
+
+- Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning, *ICML 2023*, [(link)](https://arxiv.org/pdf/2304.12824.pdf)
+
+  Cheng Lu, Huayu Chen, Jianfei Chen, Hang Su, Chongxuan Li, Jun Zhu
+
+
 
 ## How to Contribute
 
