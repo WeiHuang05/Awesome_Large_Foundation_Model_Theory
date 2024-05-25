@@ -62,7 +62,7 @@ In Context Learning Theory examines the ways in which learning is enhanced when 
   Adam Tauman Kalai, Santosh S. Vempala
 
 
-## China-of-thought
+## Chain-of-Thought
 
 - Dissecting Chain-of-Thought: Compositionality through In-Context Filtering and Learning. *NeurIPS 2023*, [(link)](https://arxiv.org/abs/2305.18869)
 
