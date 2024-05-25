@@ -16,6 +16,10 @@ In Context Learning Theory examines the ways in which learning is enhanced when 
 
 ## In Context Learning
 
+- What Can Transformers Learn In-Context? A Case Study of Simple Function Classes. *NeurIPS 2022*, [(link)](https://arxiv.org/abs/2208.01066)
+
+  Shivam Garg, Dimitris Tsipras, Percy Liang, Gregory Valiant
+
 - What learning algorithm is in-context learning? Investigations with linear models. *ICLR 2023*. [(link)](https://arxiv.org/pdf/2211.15661.pdf)
 
   Ekin Akyurek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, Denny Zhou
