@@ -1,4 +1,4 @@
-# Awesome In Large Foundation Model Theory
+# Awesome Large Foundation Model Theory
 
 Welcome to the Awesome In Context Learning Theory repository! This repository is dedicated to exploring and discussing the fascinating field of In Context Learning Theory.
 
@@ -60,6 +60,13 @@ In Context Learning Theory examines the ways in which learning is enhanced when 
 - Calibrated Language Models Must Hallucinate, [(link)](https://arxiv.org/abs/2311.14648)
 
   Adam Tauman Kalai, Santosh S. Vempala
+
+
+## China-of-thought
+
+- Dissecting Chain-of-Thought: Compositionality through In-Context Filtering and Learning. *NeurIPS 2023*, [(link)](https://arxiv.org/abs/2305.18869)
+
+  Yingcong Li, Kartik Sreenivasan, Angeliki Giannou, Dimitris Papailiopoulos, Samet Oymak
 
 
   
