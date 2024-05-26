@@ -4,15 +4,22 @@ Welcome to the Awesome In Context Learning Theory repository! This repository is
 
 ## About
 
-In Context Learning Theory examines the ways in which learning is enhanced when it occurs within meaningful and relevant contexts. This repository aims to gather resources, research papers, presentations, and foster discussions related to In Context Learning Theory, its applications, and its impact on education and learning environments.
+Large Foundation Modal Theory examines the ways in which learning is enhanced when it occurs within meaningful and relevant contexts. This repository aims to gather resources, research papers, presentations, and foster discussions related to Large Foundation Modal Theory, its applications, and its impact on education and learning environments. In this group, we study the Large Foundation Modal Theory, which includes but is not limited to
+
+ - In context learning
+ - Chain of Thought
+ - Diffusion Modal
+ - Hallucination
+ 
+ 
 
 ## Goals
 
-- Create a collaborative space for scholars, researchers, educators, and students interested in In Context Learning Theory.
+- Create a collaborative space for scholars, researchers, educators, and students interested in Large Foundation Modal Theory.
 - Share and curate a collection of high-quality resources, including research papers, books, articles, and other relevant materials.
-- Foster discussions and exchange ideas on various aspects of In Context Learning Theory.
+- Foster discussions and exchange ideas on various aspects of Large Foundation Modal Theory.
 - Explore the practical applications and implications of In Context Learning Theory in educational settings.
-- Provide a supportive environment for individuals to learn, contribute, and collaborate in the field of In Context Learning Theory.
+- Provide a supportive environment for individuals to learn, contribute, and collaborate in the field of Large Foundation Modal Theory.
 
 ## In Context Learning
 
