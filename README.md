@@ -19,6 +19,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
   Shivam Garg, Dimitris Tsipras, Percy Liang, Gregory Valiant
 
+- Data Distributional Properties Drive Emergent In-Context Learning in Transformers. *NeurIPS 2022*, [(link)](https://proceedings.neurips.cc/paper_files/paper/2022/file/77c6ccacfd9962e2307fc64680fc5ace-Paper-Conference.pdf)  
+
 - What learning algorithm is in-context learning? Investigations with linear models. *ICLR 2023*. [(link)](https://arxiv.org/pdf/2211.15661.pdf)
 
   Ekin Akyurek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, Denny Zhou
