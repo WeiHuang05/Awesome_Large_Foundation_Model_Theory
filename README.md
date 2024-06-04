@@ -72,7 +72,6 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
   Yingcong Li, Kartik Sreenivasan, Angeliki Giannou, Dimitris Papailiopoulos, Samet Oymak
 
 
-
 ## How to Contribute
 
 We welcome contributions from anyone interested in In Context Learning Theory. Here are some ways you can contribute:
@@ -91,7 +90,3 @@ To ensure that this repository remains a welcoming and inclusive space for every
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). Please note that any contributions made to this repository will be subject to the same license.
-
----
-
-We look forward to your contributions and engaging discussions as we explore the exciting field of In Context Learning Theory!
