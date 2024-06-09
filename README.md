@@ -35,6 +35,10 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
   Ekin Akyurek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, Denny Zhou
 
+- Transformers as statisticians: Provable in-context learning with in-context algorithm selection, *NeurIPS 2023*, [(link)](https://arxiv.org/abs/2306.04637)
+
+  Yu Bai, Fan Chen, Huan Wang, Caiming Xiong, Song Mei
+
 - Trained Transformers Learn Linear Models In-Context. [(link)](https://arxiv.org/pdf/2306.09927.pdf)
 
   Ruiqi Zhang, Spencer Frei, Peter L. Bartlett
