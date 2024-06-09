@@ -23,6 +23,10 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
   Stephanie C.Y. Chan, Adam Santoro, Andrew K. Lampinen, Jane X. Wang, Aaditya Singh, Pierre H. Richemond, Jay McClelland, Felix Hill
 
+- In-context learning and induction heads, *Transformer Circuits Thread, 2022*, [(link)](https://transformer-circuits.pub/2022/in-context-learning-andinduction-heads/index.html)
+
+  Catherine Olsson, Nelson Elhage, Neel Nanda, et al.   
+
 - An Explanation of In-context Learning as Implicit Bayesian Inference. *ICLR 2022*, [(link)](https://arxiv.org/abs/2111.02080)
 
   Sang Michael Xie, Aditi Raghunathan, Percy Liang, Tengyu Ma
