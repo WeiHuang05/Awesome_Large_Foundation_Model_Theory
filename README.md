@@ -15,8 +15,6 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ## In Context Learning
 
-## In Context Learning
-
 ### 2022
 
 > **What Can Transformers Learn In-Context? A Case Study of Simple Function Classes**  
