@@ -61,6 +61,10 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
   Xunpeng Huang, Difan Zou, Hanze Dong, Yian Ma, Tong Zhang
 
+- Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization, *ICLR 2024*, [(link)](https://arxiv.org/abs/2401.15604)
+
+  Yinbin Han, Meisam Razaviyayn, Renyuan Xu
+
 
 ## Hallucination
 
