@@ -42,6 +42,12 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 - What and How does In-Context Learning Learn? Bayesian Model Averaging, Parameterization, and Generalization, [(link)](https://arxiv.org/abs/2305.19420)
 
   Yufeng Zhang, Fengzhuo Zhang, Zhuoran Yang, Zhaoran Wang
+
+- How Transformers Learn Causal Structure with Gradient Descent, *ICML 2024*, [(link)](https://arxiv.org/abs/2402.14735)
+
+  Eshaan Nichani, Alex Damian, Jason D. Lee
+
+    
   
 
   
