@@ -130,7 +130,7 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
  
   
-## Diffusion Model
+## Diffusion_Model
 
 - Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning, *ICML 2023*, [(link)](https://arxiv.org/pdf/2304.12824.pdf)
 
