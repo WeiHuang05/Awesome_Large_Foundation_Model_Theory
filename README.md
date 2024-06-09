@@ -39,6 +39,10 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
   Yu Bai, Fan Chen, Huan Wang, Caiming Xiong, Song Mei
 
+- Transformers learn in-context by gradient descent, *ICML 2023*, [(link)](https://arxiv.org/abs/2212.07677)
+
+  Johannes von Oswald, Eyvind Niklasson, Ettore Randazzo, João Sacramento, Alexander Mordvintsev, Andrey Zhmoginov, Max Vladymyrov
+
 - Trained Transformers Learn Linear Models In-Context. [(link)](https://arxiv.org/pdf/2306.09927.pdf)
 
   Ruiqi Zhang, Spencer Frei, Peter L. Bartlett
