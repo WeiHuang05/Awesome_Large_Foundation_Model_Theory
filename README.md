@@ -43,9 +43,21 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
   Johannes von Oswald, Eyvind Niklasson, Ettore Randazzo, João Sacramento, Alexander Mordvintsev, Andrey Zhmoginov, Max Vladymyrov
 
+- Max-Margin Token Selection in Attention Mechanism, *NeurIPS 2023*, [(link)](https://arxiv.org/abs/2306.13596)
+
+  Davoud Ataee Tarzanagh, Yingcong Li, Xuechen Zhang, Samet Oymak
+
+- Transformers learn to implement preconditioned gradient descent for in-context learning, *NeurIPS 2023*, [(link)](https://arxiv.org/abs/2306.00297)
+
+  Kwangjun Ahn, Xiang Cheng, Hadi Daneshmand, Suvrit Sra
+
 - Trained Transformers Learn Linear Models In-Context. [(link)](https://arxiv.org/pdf/2306.09927.pdf)
 
   Ruiqi Zhang, Spencer Frei, Peter L. Bartlett
+
+- In-context convergence of transformers, [(link)](https://arxiv.org/abs/2310.05249)
+
+  Yu Huang, Yuan Cheng, Yingbin Liang
 
 - Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning, *NeurIPS 2023* [(link)](https://arxiv.org/abs/2301.11916)
 
@@ -59,6 +71,10 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
   Yufeng Zhang, Fengzhuo Zhang, Zhuoran Yang, Zhaoran Wang
 
+- Birth of a Transformer: A Memory Viewpoint, *NeurIPS 2023*, [(link)](https://arxiv.org/abs/2306.00802)
+
+  Alberto Bietti, Vivien Cabannes, Diane Bouchacourt, Herve Jegou, Leon Bottou
+  
 - How Transformers Learn Causal Structure with Gradient Descent, *ICML 2024*, [(link)](https://arxiv.org/abs/2402.14735)
 
   Eshaan Nichani, Alex Damian, Jason D. Lee
