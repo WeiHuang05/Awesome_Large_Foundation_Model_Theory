@@ -23,6 +23,10 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
   Stephanie C.Y. Chan, Adam Santoro, Andrew K. Lampinen, Jane X. Wang, Aaditya Singh, Pierre H. Richemond, Jay McClelland, Felix Hill
 
+- An Explanation of In-context Learning as Implicit Bayesian Inference. *ICLR 2022*, [(link)](https://arxiv.org/abs/2111.02080)
+
+  Sang Michael Xie, Aditi Raghunathan, Percy Liang, Tengyu Ma
+  
 - What learning algorithm is in-context learning? Investigations with linear models. *ICLR 2023*. [(link)](https://arxiv.org/pdf/2211.15661.pdf)
 
   Ekin Akyurek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, Denny Zhou
