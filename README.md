@@ -50,6 +50,12 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ---
 
+> Uncovering mesa-optimization algorithms in Transformers, [(link)](https://arxiv.org/abs/2309.05858)
+> Johannes von Oswald, Eyvind Niklasson, Maximilian Schlegel, Seijin Kobayashi, Nicolas Zucchet, Nino Scherrer, Nolan Miller, Mark Sandler, Blaise Agüera y Arcas, Max Vladymyrov, Razvan Pascanu, João Sacramento
+
+
+---
+
 > **Transformers as statisticians: Provable in-context learning with in-context algorithm selection**  
 > *NeurIPS 2023*  
 > Yu Bai, Fan Chen, Huan Wang, Caiming Xiong, Song Mei  
