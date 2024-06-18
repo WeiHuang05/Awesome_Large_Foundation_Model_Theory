@@ -17,10 +17,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ### 2022
 
-> **What Can Transformers Learn In-Context? A Case Study of Simple Function Classes**  
-> *NeurIPS 2022*  
-> Shivam Garg, Dimitris Tsipras, Percy Liang, Gregory Valiant  
-> [link](https://arxiv.org/abs/2208.01066)
+> **What Can Transformers Learn In-Context? A Case Study of Simple Function Classes**, *NeurIPS 2022*, [link](https://arxiv.org/abs/2208.01066)  
+> Shivam Garg, Dimitris Tsipras, Percy Liang, Gregory Valiant 
 
 ---
 
