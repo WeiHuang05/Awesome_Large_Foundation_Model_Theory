@@ -124,7 +124,7 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ---
 
-> Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning? *ICML 2024*, [link](https://openreview.net/pdf?id=o8AaRKbP9K)
+> **Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?**, *ICML 2024*, [link](https://openreview.net/pdf?id=o8AaRKbP9K)
 > Khashayar Gatmiry, Nikunj Saunshi, Sashank Reddi, Stefanie Jegelka, Sanjiv Kumar
  
   
