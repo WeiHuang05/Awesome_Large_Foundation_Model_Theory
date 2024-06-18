@@ -48,8 +48,9 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ---
 
-> **Uncovering mesa-optimization algorithms in Transformers**, [link](https://arxiv.org/abs/2309.05858) 
-> Johannes von Oswald, Eyvind Niklasson, Maximilian Schlegel, et al. 
+> **Uncovering mesa-optimization algorithms in Transformers**, [link](https://arxiv.org/abs/2309.05858)  
+> Johannes von Oswald, Eyvind Niklasson, Maximilian Schlegel et al.
+
 
 ---
 
