@@ -49,7 +49,7 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 ---
 
 > **Uncovering mesa-optimization algorithms in Transformers**, [link](https://arxiv.org/abs/2309.05858) 
-> Johannes von Oswald, Eyvind Niklasson, Maximilian Schlegel, et al.
+> Johannes von Oswald, Eyvind Niklasson, Maximilian Schlegel, et al. 
 
 ---
 
@@ -125,7 +125,7 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 ---
 
 > **Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?**, *ICML 2024*, [link](https://openreview.net/pdf?id=o8AaRKbP9K)
-> Khashayar Gatmiry, Nikunj Saunshi, Sashank Reddi, Stefanie Jegelka, Sanjiv Kumar
+> Khashayar Gatmiry, Nikunj Saunshi, Sashank Reddi, Stefanie Jegelka, Sanjiv Kumar 
  
   
 ## Diffusion_Model
