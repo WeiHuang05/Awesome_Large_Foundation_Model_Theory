@@ -22,10 +22,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ---
 
-> **Data Distributional Properties Drive Emergent In-Context Learning in Transformers**  
-> *NeurIPS 2022*  
+> **Data Distributional Properties Drive Emergent In-Context Learning in Transformers**, *NeurIPS 2022*, [link](https://arxiv.org/abs/2205.05055)  
 > Stephanie C.Y. Chan, Adam Santoro, Andrew K. Lampinen, Jane X. Wang, Aaditya Singh, Pierre H. Richemond, Jay McClelland, Felix Hill  
-> [link](https://arxiv.org/abs/2205.05055)
 
 ---
 
