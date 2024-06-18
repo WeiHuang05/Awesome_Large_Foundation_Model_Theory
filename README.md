@@ -43,16 +43,13 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ---
 
-> **What learning algorithm is in-context learning? Investigations with linear models**  
-> *ICLR 2023*  
+> **What learning algorithm is in-context learning? Investigations with linear models**, *ICLR 2023*, [link](https://arxiv.org/pdf/2211.15661.pdf)  
 > Ekin Akyurek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, Denny Zhou  
-> [link](https://arxiv.org/pdf/2211.15661.pdf)
 
 ---
 
-> Uncovering mesa-optimization algorithms in Transformers, [(link)](https://arxiv.org/abs/2309.05858)
-> Johannes von Oswald, Eyvind Niklasson, Maximilian Schlegel, Seijin Kobayashi, Nicolas Zucchet, Nino Scherrer, Nolan Miller, Mark Sandler, Blaise Agüera y Arcas, Max Vladymyrov, Razvan Pascanu, João Sacramento
-
+> **Uncovering mesa-optimization algorithms in Transformers**, [link](https://arxiv.org/abs/2309.05858) 
+> Johannes von Oswald, Eyvind Niklasson, Maximilian Schlegel, et al.
 
 ---
 
