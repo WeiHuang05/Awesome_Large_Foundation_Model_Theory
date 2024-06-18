@@ -67,10 +67,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ---
 
-> **Max-Margin Token Selection in Attention Mechanism**  
-> *NeurIPS 2023*  
+> **Max-Margin Token Selection in Attention Mechanism**, *NeurIPS 2023*, [link](https://arxiv.org/abs/2306.13596)  
 > Davoud Ataee Tarzanagh, Yingcong Li, Xuechen Zhang, Samet Oymak  
-> [link](https://arxiv.org/abs/2306.13596)
 
 ---
 
@@ -121,12 +119,13 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ---
 
-> **How Transformers Learn Causal Structure with Gradient Descent**  
-> *ICML 2024*  
+> **How Transformers Learn Causal Structure with Gradient Descent**, *ICML 2024*, [link](https://arxiv.org/abs/2402.14735)  
 > Eshaan Nichani, Alex Damian, Jason D. Lee  
-> [link](https://arxiv.org/abs/2402.14735)
 
+---
 
+> Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning? *ICML 2024*, [link](https://openreview.net/pdf?id=o8AaRKbP9K)
+> Khashayar Gatmiry, Nikunj Saunshi, Sashank Reddi, Stefanie Jegelka, Sanjiv Kumar
  
   
 ## Diffusion_Model
