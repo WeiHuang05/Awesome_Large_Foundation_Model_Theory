@@ -149,6 +149,11 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
   Yinbin Han, Meisam Razaviyayn, Renyuan Xu
 
+- Learning General Gaussian Mixtures with Efficient Score Matching, [(link)](https://arxiv.org/abs/2404.18893)
+
+  Sitan Chen, Vasilis Kontonis, Kulin Shah
+
+
 
 ## Hallucination
 
