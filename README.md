@@ -30,117 +30,66 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ### 2023
 
----
 
 > **What learning algorithm is in-context learning? Investigations with linear models**, *ICLR 2023*, [link](https://arxiv.org/pdf/2211.15661.pdf)  
-> Ekin Akyurek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, Denny Zhou  
-
 ---
 
 > **Uncovering mesa-optimization algorithms in Transformers**, [link](https://arxiv.org/abs/2309.05858)  
-> Johannes von Oswald, Eyvind Niklasson, Maximilian Schlegel et al.
-
-
 ---
 
-> **Transformers as statisticians: Provable in-context learning with in-context algorithm selection**  
-> *NeurIPS 2023*  
-> Yu Bai, Fan Chen, Huan Wang, Caiming Xiong, Song Mei  
-> [link](https://arxiv.org/abs/2306.04637)
-
+> **Transformers as statisticians: Provable in-context learning with in-context algorithm selection**, *NeurIPS 2023*,  [link](https://arxiv.org/abs/2306.04637)
 ---
 
-> **Transformers learn in-context by gradient descent**  
-> *ICML 2023*  
-> Johannes von Oswald, Eyvind Niklasson, Ettore Randazzo, João Sacramento, Alexander Mordvintsev, Andrey Zhmoginov, Max Vladymyrov  
-> [link](https://arxiv.org/abs/2212.07677)
-
+> **Transformers learn in-context by gradient descent**, *ICML 2023*, [link](https://arxiv.org/abs/2212.07677)
 ---
 
 > **Max-Margin Token Selection in Attention Mechanism**, *NeurIPS 2023*, [link](https://arxiv.org/abs/2306.13596)  
-> Davoud Ataee Tarzanagh, Yingcong Li, Xuechen Zhang, Samet Oymak  
-
 ---
 
-> **Transformers learn to implement preconditioned gradient descent for in-context learning**  
-> *NeurIPS 2023*  
-> Kwangjun Ahn, Xiang Cheng, Hadi Daneshmand, Suvrit Sra  
-> [link](https://arxiv.org/abs/2306.00297)
-
+> **Transformers learn to implement preconditioned gradient descent for in-context learning**, *NeurIPS 2023*, [link](https://arxiv.org/abs/2306.00297)
 ---
 
-> **Trained Transformers Learn Linear Models In-Context**  
-> Ruiqi Zhang, Spencer Frei, Peter L. Bartlett  
-> [link](https://arxiv.org/pdf/2306.09927.pdf)
-
+> **Trained Transformers Learn Linear Models In-Context**, *JMLR*, [link](https://arxiv.org/pdf/2306.09927.pdf)
 ---
 
-> **In-context convergence of transformers**  
-> Yu Huang, Yuan Cheng, Yingbin Liang  
-> [link](https://arxiv.org/abs/2310.05249)
-
+> **In-context convergence of transformers**, *ICML 2024*, [link](https://arxiv.org/abs/2310.05249)
 ---
 
-> **Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning**  
-> *NeurIPS 2023*  
-> Xinyi Wang, Wanrong Zhu, Michael Saxon, Mark Steyvers, William Yang Wang  
-> [link](https://arxiv.org/abs/2301.11916)
-
+> **Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning**, *NeurIPS 2023*, [link](https://arxiv.org/abs/2301.11916)
 ---
 
-> **In-Context Learning through the Bayesian Prism**  
-> Kabir Ahuja, Madhur Panwar, Navin Goyal  
-> [link](https://arxiv.org/abs/2306.04891)
-
+> **In-Context Learning through the Bayesian Prism**, [link](https://arxiv.org/abs/2306.04891)
 ---
 
-> **What and How does In-Context Learning Learn? Bayesian Model Averaging, Parameterization, and Generalization**  
-> Yufeng Zhang, Fengzhuo Zhang, Zhuoran Yang, Zhaoran Wang  
-> [link](https://arxiv.org/abs/2305.19420)
-
+> **What and How does In-Context Learning Learn? Bayesian Model Averaging, Parameterization, and Generalization**, [link](https://arxiv.org/abs/2305.19420)
 ---
 
-> **Birth of a Transformer: A Memory Viewpoint**  
-> *NeurIPS 2023*  
-> Alberto Bietti, Vivien Cabannes, Diane Bouchacourt, Herve Jegou, Leon Bottou  
-> [link](https://arxiv.org/abs/2306.00802)
+> **Birth of a Transformer: A Memory Viewpoint**, *NeurIPS 2023*, [link](https://arxiv.org/abs/2306.00802)
 
 ### 2024
 
----
 
 > **How Transformers Learn Causal Structure with Gradient Descent**, *ICML 2024*, [link](https://arxiv.org/abs/2402.14735)  
-> Eshaan Nichani, Alex Damian, Jason D. Lee  
-
 ---
 
 > **Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?**, *ICML 2024*, [link](https://openreview.net/pdf?id=o8AaRKbP9K)
-> Khashayar Gatmiry, Nikunj Saunshi, Sashank Reddi, Stefanie Jegelka, Sanjiv Kumar 
  
   
 ## Diffusion_Model
 
 - Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning, *ICML 2023*, [(link)](https://arxiv.org/pdf/2304.12824.pdf)
 
-  Cheng Lu, Huayu Chen, Jianfei Chen, Hang Su, Chongxuan Li, Jun Zhu
-
-- Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization, [(link)](https://openreview.net/pdf?id=h8GeqOxtd4)
-
 - Learning Mixtures of Gaussians Using the DDPM Objective，*NeurIPS 2023*,  [(link)](https://arxiv.org/pdf/2307.01178.pdf)
-
-  Kulin Shah, Sitan Chen, Adam Klivans
 
 - Faster Sampling without Isoperimetry via Diffusion-based Monte Carlo, [(link)](https://arxiv.org/abs/2401.06325)
 
-  Xunpeng Huang, Difan Zou, Hanze Dong, Yian Ma, Tong Zhang
-
 - Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization, *ICLR 2024*, [(link)](https://arxiv.org/abs/2401.15604)
-
-  Yinbin Han, Meisam Razaviyayn, Renyuan Xu
 
 - Learning General Gaussian Mixtures with Efficient Score Matching, [(link)](https://arxiv.org/abs/2404.18893)
 
-  Sitan Chen, Vasilis Kontonis, Kulin Shah
+- On the Generalization Properties of Diffusion Models, [link](https://arxiv.org/pdf/2311.01797)
+
+- 
 
 
 
