@@ -40,6 +40,9 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 > **Transformers as statisticians: Provable in-context learning with in-context algorithm selection**, *NeurIPS 2023*,  [link](https://arxiv.org/abs/2306.04637)
 ---
 
+> **Transformers as Algorithms: Generalization and Stability in In-context Learning**, *ICML 2023*,  [link](https://proceedings.mlr.press/v202/li23l/li23l.pdf)
+---
+
 > **Transformers learn in-context by gradient descent**, *ICML 2023*, [link](https://arxiv.org/abs/2212.07677)
 ---
 
@@ -65,16 +68,35 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 ---
 
 > **Birth of a Transformer: A Memory Viewpoint**, *NeurIPS 2023*, [link](https://arxiv.org/abs/2306.00802)
+---
+
+> **A Theory of Emergent In-Context Learning as Implicit Structure Induction**, [link](https://arxiv.org/pdf/2303.07971)
 
 ### 2024
 
+> **How Do Nonlinear Transformers Learn and Generalize in In-Context Learning?**, *ICML 2024*, [link](https://openreview.net/forum?id=I4HTPws9P6)  
+---
 
 > **How Transformers Learn Causal Structure with Gradient Descent**, *ICML 2024*, [link](https://arxiv.org/abs/2402.14735)  
 ---
 
+> **How does Multi-Task Training Affect Transformer In-Context Capabilities? Investigations with Function Classes**, [link](https://arxiv.org/pdf/2404.03558)  
+---
+
 > **Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?**, *ICML 2024*, [link](https://openreview.net/pdf?id=o8AaRKbP9K)
- 
-  
+ ---
+
+> **How Well Can Transformers Emulate In-context Newton's Method?**, [link](https://arxiv.org/pdf/2403.03183)  
+ ---
+
+> **In-Context Learning of a Linear Transformer Block: Benefits of the MLP Component and One-Step GD Initialization**, [link](https://arxiv.org/pdf/2402.14951)  
+ ---
+
+> **The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains**, [link](https://arxiv.org/pdf/2402.11004)  
+ ---
+
+> **Fine-grained Analysis of In-context Linear Estimation**, [link](https://openreview.net/pdf?id=1vM1a7KrC6)  
+
 ## Diffusion_Model
 
 - Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning, *ICML 2023*, [(link)](https://arxiv.org/pdf/2304.12824.pdf)
