@@ -117,6 +117,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 - Learning General Gaussian Mixtures with Efficient Score Matching, Apr 2024, [(link)](https://arxiv.org/abs/2404.18893)
 
+- Learning Mixtures of Gaussians Using Diffusion Models, Apr 2024, [(link)](https://arxiv.org/pdf/2404.18869)
+
 - On Statistical Rates and Provably Efficient Criteria of Latent Diffusion Transformers (DiTs), July, 2024, [(link)](https://arxiv.org/pdf/2407.01079)
 
 
