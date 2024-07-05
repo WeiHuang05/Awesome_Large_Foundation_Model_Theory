@@ -103,6 +103,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 - Diffusion Models are Minimax Optimal Distribution Estimators, *ICML 2023*, [(link)](https://arxiv.org/pdf/2303.01861)
 
+- Score approximation, estimation and distribution recovery of diffusion models on low-dimensional data, *ICML 2023*, [(link)](https://arxiv.org/pdf/2302.07194)
+
 - Learning Mixtures of Gaussians Using the DDPM Objective，*NeurIPS 2023*,  [(link)](https://arxiv.org/pdf/2307.01178.pdf)
 
 - On the Generalization Properties of Diffusion Models, *NeurIPS 2023*, [link](https://arxiv.org/pdf/2311.01797)
