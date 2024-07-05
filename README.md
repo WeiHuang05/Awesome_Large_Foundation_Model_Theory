@@ -101,6 +101,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 - Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning, *ICML 2023*, [(link)](https://arxiv.org/pdf/2304.12824.pdf)
 
+- Diffusion Models are Minimax Optimal Distribution Estimators, *ICML 2023*, [(link)](https://arxiv.org/pdf/2303.01861)
+
 - Learning Mixtures of Gaussians Using the DDPM Objective，*NeurIPS 2023*,  [(link)](https://arxiv.org/pdf/2307.01178.pdf)
 
 - On the Generalization Properties of Diffusion Models, *NeurIPS 2023*, [link](https://arxiv.org/pdf/2311.01797)
