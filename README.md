@@ -109,7 +109,7 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 - Learning General Gaussian Mixtures with Efficient Score Matching, [(link)](https://arxiv.org/abs/2404.18893)
 
-- On the Generalization Properties of Diffusion Models, [link](https://arxiv.org/pdf/2311.01797)
+- On the Generalization Properties of Diffusion Models, *NeurIPS 2023* [link](https://arxiv.org/pdf/2311.01797)
 
 - 
 
