@@ -97,11 +97,13 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 > **Fine-grained Analysis of In-context Linear Estimation**, [link](https://openreview.net/pdf?id=1vM1a7KrC6)  
 
-## Diffusion_Model
+## Diffusion Model
 
 - Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning, *ICML 2023*, [(link)](https://arxiv.org/pdf/2304.12824.pdf)
 
 - Learning Mixtures of Gaussians Using the DDPM Objective，*NeurIPS 2023*,  [(link)](https://arxiv.org/pdf/2307.01178.pdf)
+
+- On the Generalization Properties of Diffusion Models, *NeurIPS 2023*, [link](https://arxiv.org/pdf/2311.01797)
 
 - Faster Sampling without Isoperimetry via Diffusion-based Monte Carlo, [(link)](https://arxiv.org/abs/2401.06325)
 
@@ -109,9 +111,6 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 - Learning General Gaussian Mixtures with Efficient Score Matching, [(link)](https://arxiv.org/abs/2404.18893)
 
-- On the Generalization Properties of Diffusion Models, *NeurIPS 2023* [link](https://arxiv.org/pdf/2311.01797)
-
-- 
 
 
 
