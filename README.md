@@ -113,6 +113,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 - Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization, *ICLR 2024*, [(link)](https://arxiv.org/abs/2401.15604)
 
+- Critical windows: non-asymptotic theory for feature emergence in diffusion models, *ICML 2024*, [(link)](https://arxiv.org/pdf/2403.01633)
+
 - Learning General Gaussian Mixtures with Efficient Score Matching, Apr 2024, [(link)](https://arxiv.org/abs/2404.18893)
 
 - On Statistical Rates and Provably Efficient Criteria of Latent Diffusion Transformers (DiTs), July, 2024, [(link)](https://arxiv.org/pdf/2407.01079)
