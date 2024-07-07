@@ -61,7 +61,7 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 > **Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning**, *NeurIPS 2023*, [link](https://arxiv.org/abs/2301.11916)
 ---
 
-> **In-Context Learning through the Bayesian Prism**, [link](https://arxiv.org/abs/2306.04891)
+> **In-Context Learning through the Bayesian Prism**, *ICLR 2024* [link](https://arxiv.org/abs/2306.04891)
 ---
 
 > **What and How does In-Context Learning Learn? Bayesian Model Averaging, Parameterization, and Generalization**, [link](https://arxiv.org/abs/2305.19420)
