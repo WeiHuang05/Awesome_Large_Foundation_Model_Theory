@@ -8,7 +8,7 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 
 1. [In context learning](#In_context_learning)
-2. [Diffusion Model](#Diffusion_Model)
+2. [Diffusion Model](#Diffusion_model)
 3. [Hallucination](#Hallucination)
 4. [Chain-of-Thought](#Chain-of-Thought)
  
@@ -97,7 +97,7 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 > **Fine-grained Analysis of In-context Linear Estimation**, [link](https://openreview.net/pdf?id=1vM1a7KrC6)  
 
-## Diffusion_Model
+## Diffusion Model
 
 - Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning, *ICML 2023*, [(link)](https://arxiv.org/pdf/2304.12824.pdf)
 
