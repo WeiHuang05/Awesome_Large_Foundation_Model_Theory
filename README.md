@@ -8,7 +8,7 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 
 1. [In context learning](#In_context_learning)
-2. [Diffusion Model](#Diffusion_model)
+2. [Diffusion Model](#diffusion-model)
 3. [Hallucination](#Hallucination)
 4. [Chain-of-Thought](#Chain-of-Thought)
  
