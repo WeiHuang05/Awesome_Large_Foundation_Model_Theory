@@ -1,6 +1,6 @@
 # Awesome Large Foundation Model Theory
 
-Welcome to the Awesome Large Foundation Model Theory repository! This repository is dedicated to exploring and discussing the fascinating field of In Context Learning Theory.
+Welcome to the Awesome Large Foundation Model Theory repository! This repository is dedicated to exploring and discussing the fascinating field of Large Foundation Model Theory.
 
 ## About
 
@@ -142,7 +142,7 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ## How to Contribute
 
-We welcome contributions from anyone interested in In Context Learning Theory. Here are some ways you can contribute:
+We welcome contributions from anyone interested in Large Foundation Model Theory. Here are some ways you can contribute:
 
 - **Add resources:** Share relevant research papers, articles, books, or other resources by opening a pull request.
 - **Start a discussion:** Create a new discussion thread in the GitHub Discussions tab to initiate conversations and share insights.
