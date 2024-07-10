@@ -115,6 +115,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 - Critical windows: non-asymptotic theory for feature emergence in diffusion models, *ICML 2024*, [(link)](https://arxiv.org/pdf/2403.01633)
 
+- Minimax Optimality of Score-based Diffusion Models: Beyond the Density Lower Bound Assumptions, *ICML 2024*,  [(link)](https://arxiv.org/abs/2402.15602)
+
 - Learning General Gaussian Mixtures with Efficient Score Matching, Apr 2024, [(link)](https://arxiv.org/abs/2404.18893)
 
 - Learning Mixtures of Gaussians Using Diffusion Models, Apr 2024, [(link)](https://arxiv.org/pdf/2404.18869)
