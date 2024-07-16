@@ -132,20 +132,16 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 - On Statistical Rates and Provably Efficient Criteria of Latent Diffusion Transformers (DiTs), July, 2024, [(link)](https://arxiv.org/pdf/2407.01079)
 
 
-
-
 ## Hallucination
 
 - Calibrated Language Models Must Hallucinate, [(link)](https://arxiv.org/abs/2311.14648)
-
-  Adam Tauman Kalai, Santosh S. Vempala
 
 
 ## Chain-of-Thought
 
 - Dissecting Chain-of-Thought: Compositionality through In-Context Filtering and Learning. *NeurIPS 2023*, [(link)](https://arxiv.org/abs/2305.18869)
 
-  Yingcong Li, Kartik Sreenivasan, Angeliki Giannou, Dimitris Papailiopoulos, Samet Oymak
+- Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective. *NeurIPS 2023*, [(link)](https://arxiv.org/abs/2305.15408)
 
 
 ## How to Contribute
