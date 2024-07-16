@@ -123,6 +123,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 - Unraveling the Smoothness Properties of Diffusion Models: A Gaussian Mixture Perspective, May 2024, [(link)](https://arxiv.org/pdf/2405.16418)
 
+- U-Nets as Belief Propagation: Efficient Classification, Denoising, and Diffusion in Generative Hierarchical Models, May 2024, [(link)](https://arxiv.org/pdf/2404.18444)
+
 - On Statistical Rates and Provably Efficient Criteria of Latent Diffusion Transformers (DiTs), July, 2024, [(link)](https://arxiv.org/pdf/2407.01079)
 
 
