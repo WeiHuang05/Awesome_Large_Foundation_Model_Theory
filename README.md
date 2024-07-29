@@ -105,6 +105,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 - Score approximation, estimation and distribution recovery of diffusion models on low-dimensional data, *ICML 2023*, [(link)](https://arxiv.org/pdf/2302.07194)
 
+- The probability flow ODE is provably fast, *NeurIPS 2023*,  [(link)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d84a27ff694345aacc21c72097a69ea2-Abstract-Conference.html)
+
 - Learning Mixtures of Gaussians Using the DDPM Objective，*NeurIPS 2023*,  [(link)](https://arxiv.org/pdf/2307.01178.pdf)
 
 - On the Generalization Properties of Diffusion Models, *NeurIPS 2023*, [link](https://arxiv.org/pdf/2311.01797)
