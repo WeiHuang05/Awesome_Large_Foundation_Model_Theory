@@ -119,15 +119,21 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 - Minimax Optimality of Score-based Diffusion Models: Beyond the Density Lower Bound Assumptions, *ICML 2024*,  [(link)](https://arxiv.org/abs/2402.15602)
 
+- Reverse Transition Kernel: A Flexible Framework to Accelerate Diffusion Inference, *ICML 2024*,  [(link)](https://arxiv.org/abs/2405.16387)
+
 - Learning General Gaussian Mixtures with Efficient Score Matching, Apr 2024, [(link)](https://arxiv.org/abs/2404.18893)
 
 - Learning Mixtures of Gaussians Using Diffusion Models, Apr 2024, [(link)](https://arxiv.org/pdf/2404.18869)
 
 - An overview of diffusion models: Applications, guided generation, statistical rates and optimization, Apr 2024, [(link)](https://arxiv.org/abs/2404.07771)
 
+- Slight Corruption in Pre-training Data Makes Better Diffusion Models, May 2024, [(link)](https://arxiv.org/abs/2405.20494)
+
 - Unraveling the Smoothness Properties of Diffusion Models: A Gaussian Mixture Perspective, May 2024, [(link)](https://arxiv.org/pdf/2405.16418)
 
 - U-Nets as Belief Propagation: Efficient Classification, Denoising, and Diffusion in Generative Hierarchical Models, May 2024, [(link)](https://arxiv.org/pdf/2404.18444)
+
+- Extracting Training Data from Unconditional Diffusion Models, June 2024, [(link)](https://arxiv.org/abs/2406.12752)
 
 - On Statistical Rates and Provably Efficient Criteria of Latent Diffusion Transformers (DiTs), July, 2024, [(link)](https://arxiv.org/pdf/2407.01079)
 
