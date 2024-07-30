@@ -131,6 +131,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 - Slight Corruption in Pre-training Data Makes Better Diffusion Models, May 2024, [(link)](https://arxiv.org/abs/2405.20494)
 
+- Accelerating Convergence of Score-Based Diffusion Models, Provably, May 2024, [(link)](https://arxiv.org/abs/2403.03852)
+
 - Unraveling the Smoothness Properties of Diffusion Models: A Gaussian Mixture Perspective, May 2024, [(link)](https://arxiv.org/pdf/2405.16418)
 
 - U-Nets as Belief Propagation: Efficient Classification, Denoising, and Diffusion in Generative Hierarchical Models, May 2024, [(link)](https://arxiv.org/pdf/2404.18444)
