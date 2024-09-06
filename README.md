@@ -141,6 +141,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 - On Statistical Rates and Provably Efficient Criteria of Latent Diffusion Transformers (DiTs), July, 2024, [(link)](https://arxiv.org/pdf/2407.01079)
 
+- Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering, Sep, 2024, [(link)](https://arxiv.org/pdf/2407.01079)
+
 
 ## Hallucination
 
@@ -151,7 +153,7 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 - Dissecting Chain-of-Thought: Compositionality through In-Context Filtering and Learning. *NeurIPS 2023*, [(link)](https://arxiv.org/abs/2305.18869)
 
-- Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective. *NeurIPS 2023*, [(link)](https://arxiv.org/abs/2305.15408)
+- Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective. *NeurIPS 2023*, [(link)](https://www.arxiv.org/abs/2409.02426)
 
 
 ## How to Contribute
