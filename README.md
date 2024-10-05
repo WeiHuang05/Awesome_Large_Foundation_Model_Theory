@@ -55,6 +55,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ### 2024
 
+> How Many Pretraining Tasks Are Needed for In-Context Learning of Linear Regression, *ICLR 2024* [link](https://arxiv.org/abs/2310.08391)
+
 > How Do Nonlinear Transformers Learn and Generalize in In-Context Learning?, *ICML 2024*, [link](https://openreview.net/forum?id=I4HTPws9P6)  
 
 > How Transformers Learn Causal Structure with Gradient Descent, *ICML 2024*, [link](https://arxiv.org/abs/2402.14735)  
