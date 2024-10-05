@@ -23,21 +23,17 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 > An Explanation of In-context Learning as Implicit Bayesian Inference**, *ICLR 2022*, [link](https://arxiv.org/abs/2111.02080)
 
+### 2023
 
-> **What learning algorithm is in-context learning? Investigations with linear models**, *ICLR 2023*, [link](https://arxiv.org/pdf/2211.15661.pdf)  
----
+> What learning algorithm is in-context learning? Investigations with linear models**, *ICLR 2023*, [link](https://arxiv.org/pdf/2211.15661.pdf)  
 
-> **Uncovering mesa-optimization algorithms in Transformers**, [link](https://arxiv.org/abs/2309.05858)  
----
+> Uncovering mesa-optimization algorithms in Transformers**, [link](https://arxiv.org/abs/2309.05858)  
 
-> **Transformers as statisticians: Provable in-context learning with in-context algorithm selection**, *NeurIPS 2023*,  [link](https://arxiv.org/abs/2306.04637)
----
+> Transformers as statisticians: Provable in-context learning with in-context algorithm selection**, *NeurIPS 2023*,  [link](https://arxiv.org/abs/2306.04637)
 
-> **Transformers as Algorithms: Generalization and Stability in In-context Learning**, *ICML 2023*,  [link](https://proceedings.mlr.press/v202/li23l/li23l.pdf)
----
+> Transformers as Algorithms: Generalization and Stability in In-context Learning**, *ICML 2023*,  [link](https://proceedings.mlr.press/v202/li23l/li23l.pdf)
 
-> **Transformers learn in-context by gradient descent**, *ICML 2023*, [link](https://arxiv.org/abs/2212.07677)
----
+> Transformers learn in-context by gradient descent**, *ICML 2023*, [link](https://arxiv.org/abs/2212.07677)
 
 > **Max-Margin Token Selection in Attention Mechanism**, *NeurIPS 2023*, [link](https://arxiv.org/abs/2306.13596)  
 ---
