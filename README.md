@@ -65,6 +65,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 > Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?, *ICML 2024*, [link](https://openreview.net/pdf?id=o8AaRKbP9K)
 
+> Transformers learn nonlinear features in context: nonconvex mean-field dynamics on the attention landscape, *ICML 2024*, [link](https://arxiv.org/abs/2402.01258)
+
 > How Well Can Transformers Emulate In-context Newton's Method?, [link](https://arxiv.org/pdf/2403.03183)  
 
 > In-Context Learning of a Linear Transformer Block: Benefits of the MLP Component and One-Step GD Initialization, [link](https://arxiv.org/pdf/2402.14951)  
