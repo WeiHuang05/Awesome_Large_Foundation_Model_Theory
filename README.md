@@ -71,6 +71,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 > Fine-grained Analysis of In-context Linear Estimation, [link](https://openreview.net/pdf?id=1vM1a7KrC6)
 
+> - Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context, [(link)](https://arxiv.org/abs/2410.01774)  
+
 
 
 
