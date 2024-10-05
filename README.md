@@ -78,49 +78,49 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ## Diffusion Model
 
-- Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning, *ICML 2023*, [(link)](https://arxiv.org/pdf/2304.12824.pdf)
+> Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning, *ICML 2023*, [(link)](https://arxiv.org/pdf/2304.12824.pdf)
 
-- Diffusion Models are Minimax Optimal Distribution Estimators, *ICML 2023*, [(link)](https://arxiv.org/pdf/2303.01861)
+> Diffusion Models are Minimax Optimal Distribution Estimators, *ICML 2023*, [(link)](https://arxiv.org/pdf/2303.01861)
 
-- Score approximation, estimation and distribution recovery of diffusion models on low-dimensional data, *ICML 2023*, [(link)](https://arxiv.org/pdf/2302.07194)
+> Score approximation, estimation and distribution recovery of diffusion models on low-dimensional data, *ICML 2023*, [(link)](https://arxiv.org/pdf/2302.07194)
 
-- The probability flow ODE is provably fast, *NeurIPS 2023*,  [(link)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d84a27ff694345aacc21c72097a69ea2-Abstract-Conference.html)
+> The probability flow ODE is provably fast, *NeurIPS 2023*,  [(link)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d84a27ff694345aacc21c72097a69ea2-Abstract-Conference.html)
 
-- Learning Mixtures of Gaussians Using the DDPM Objective，*NeurIPS 2023*,  [(link)](https://arxiv.org/pdf/2307.01178.pdf)
+> Learning Mixtures of Gaussians Using the DDPM Objective，*NeurIPS 2023*,  [(link)](https://arxiv.org/pdf/2307.01178.pdf)
 
-- On the Generalization Properties of Diffusion Models, *NeurIPS 2023*, [link](https://arxiv.org/pdf/2311.01797)
+> On the Generalization Properties of Diffusion Models, *NeurIPS 2023*, [link](https://arxiv.org/pdf/2311.01797)
 
-- Deep networks as denoising algorithms: Sample-efficient learning of diffusion models in high-dimensional graphical models, *M3L (2023)*, [(link)](https://arxiv.org/pdf/2309.11420)
+> Deep networks as denoising algorithms: Sample-efficient learning of diffusion models in high-dimensional graphical models, *M3L (2023)*, [(link)](https://arxiv.org/pdf/2309.11420)
 
-- Faster Sampling without Isoperimetry via Diffusion-based Monte Carlo, *COLT 2024*, [(link)](https://arxiv.org/abs/2401.06325)
+> Faster Sampling without Isoperimetry via Diffusion-based Monte Carlo, *COLT 2024*, [(link)](https://arxiv.org/abs/2401.06325)
 
-- Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization, *ICLR 2024*, [(link)](https://arxiv.org/abs/2401.15604)
+> Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization, *ICLR 2024*, [(link)](https://arxiv.org/abs/2401.15604)
 
-- Critical windows: non-asymptotic theory for feature emergence in diffusion models, *ICML 2024*, [(link)](https://arxiv.org/pdf/2403.01633)
+> Critical windows: non-asymptotic theory for feature emergence in diffusion models, *ICML 2024*, [(link)](https://arxiv.org/pdf/2403.01633)
 
-- Minimax Optimality of Score-based Diffusion Models: Beyond the Density Lower Bound Assumptions, *ICML 2024*,  [(link)](https://arxiv.org/abs/2402.15602)
+> Minimax Optimality of Score-based Diffusion Models: Beyond the Density Lower Bound Assumptions, *ICML 2024*,  [(link)](https://arxiv.org/abs/2402.15602)
 
-- Reverse Transition Kernel: A Flexible Framework to Accelerate Diffusion Inference, *ICML 2024*,  [(link)](https://arxiv.org/abs/2405.16387)
+> Reverse Transition Kernel: A Flexible Framework to Accelerate Diffusion Inference, *ICML 2024*,  [(link)](https://arxiv.org/abs/2405.16387)
 
-- Learning General Gaussian Mixtures with Efficient Score Matching, Apr 2024, [(link)](https://arxiv.org/abs/2404.18893)
+> Learning General Gaussian Mixtures with Efficient Score Matching, Apr 2024, [(link)](https://arxiv.org/abs/2404.18893)
 
-- Learning Mixtures of Gaussians Using Diffusion Models, Apr 2024, [(link)](https://arxiv.org/pdf/2404.18869)
+> Learning Mixtures of Gaussians Using Diffusion Models, Apr 2024, [(link)](https://arxiv.org/pdf/2404.18869)
 
-- An overview of diffusion models: Applications, guided generation, statistical rates and optimization, Apr 2024, [(link)](https://arxiv.org/abs/2404.07771)
+> An overview of diffusion models: Applications, guided generation, statistical rates and optimization, Apr 2024, [(link)](https://arxiv.org/abs/2404.07771)
 
-- Slight Corruption in Pre-training Data Makes Better Diffusion Models, May 2024, [(link)](https://arxiv.org/abs/2405.20494)
+> Slight Corruption in Pre-training Data Makes Better Diffusion Models, May 2024, [(link)](https://arxiv.org/abs/2405.20494)
 
-- Accelerating Convergence of Score-Based Diffusion Models, Provably, May 2024, [(link)](https://arxiv.org/abs/2403.03852)
+> Accelerating Convergence of Score-Based Diffusion Models, Provably, May 2024, [(link)](https://arxiv.org/abs/2403.03852)
 
-- Unraveling the Smoothness Properties of Diffusion Models: A Gaussian Mixture Perspective, May 2024, [(link)](https://arxiv.org/pdf/2405.16418)
+> Unraveling the Smoothness Properties of Diffusion Models: A Gaussian Mixture Perspective, May 2024, [(link)](https://arxiv.org/pdf/2405.16418)
 
-- U-Nets as Belief Propagation: Efficient Classification, Denoising, and Diffusion in Generative Hierarchical Models, May 2024, [(link)](https://arxiv.org/pdf/2404.18444)
+> U-Nets as Belief Propagation: Efficient Classification, Denoising, and Diffusion in Generative Hierarchical Models, May 2024, [(link)](https://arxiv.org/pdf/2404.18444)
 
-- Extracting Training Data from Unconditional Diffusion Models, June 2024, [(link)](https://arxiv.org/abs/2406.12752)
+> Extracting Training Data from Unconditional Diffusion Models, June 2024, [(link)](https://arxiv.org/abs/2406.12752)
 
-- On Statistical Rates and Provably Efficient Criteria of Latent Diffusion Transformers (DiTs), July, 2024, [(link)](https://arxiv.org/pdf/2407.01079)
+> On Statistical Rates and Provably Efficient Criteria of Latent Diffusion Transformers (DiTs), July, 2024, [(link)](https://arxiv.org/pdf/2407.01079)
 
-- Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering, Sep, 2024, [(link)](https://arxiv.org/pdf/2407.01079)
+> Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering, Sep, 2024, [(link)](https://arxiv.org/pdf/2407.01079)
 
 
 ## Chain-of-Thought
