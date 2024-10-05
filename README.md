@@ -15,76 +15,64 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ## In Context Learning
 
-> What Can Transformers Learn In-Context? A Case Study of Simple Function Classes**, *NeurIPS 2022*, [link](https://arxiv.org/abs/2208.01066)  
+> What Can Transformers Learn In-Context? A Case Study of Simple Function Classes, *NeurIPS 2022*, [link](https://arxiv.org/abs/2208.01066)  
 
-> Data Distributional Properties Drive Emergent In-Context Learning in Transformers**, *NeurIPS 2022*, [link](https://arxiv.org/abs/2205.05055)  
+> Data Distributional Properties Drive Emergent In-Context Learning in Transformers, *NeurIPS 2022*, [link](https://arxiv.org/abs/2205.05055)  
 
 > In-context learning and induction heads**, *Transformer Circuits Thread, 2022*, [link](https://arxiv.org/abs/2209.11895)
 
-> An Explanation of In-context Learning as Implicit Bayesian Inference**, *ICLR 2022*, [link](https://arxiv.org/abs/2111.02080)
+> An Explanation of In-context Learning as Implicit Bayesian Inference, *ICLR 2022*, [link](https://arxiv.org/abs/2111.02080)
 
 ### 2023
 
-> What learning algorithm is in-context learning? Investigations with linear models**, *ICLR 2023*, [link](https://arxiv.org/pdf/2211.15661.pdf)  
+> What learning algorithm is in-context learning? Investigations with linear models, *ICLR 2023*, [link](https://arxiv.org/pdf/2211.15661.pdf)  
 
-> Uncovering mesa-optimization algorithms in Transformers**, [link](https://arxiv.org/abs/2309.05858)  
+> Uncovering mesa-optimization algorithms in Transformers, [link](https://arxiv.org/abs/2309.05858)  
 
-> Transformers as statisticians: Provable in-context learning with in-context algorithm selection**, *NeurIPS 2023*,  [link](https://arxiv.org/abs/2306.04637)
+> Transformers as statisticians: Provable in-context learning with in-context algorithm selection, *NeurIPS 2023*,  [link](https://arxiv.org/abs/2306.04637)
 
-> Transformers as Algorithms: Generalization and Stability in In-context Learning**, *ICML 2023*,  [link](https://proceedings.mlr.press/v202/li23l/li23l.pdf)
+> Transformers as Algorithms: Generalization and Stability in In-context Learning, *ICML 2023*,  [link](https://proceedings.mlr.press/v202/li23l/li23l.pdf)
 
-> Transformers learn in-context by gradient descent**, *ICML 2023*, [link](https://arxiv.org/abs/2212.07677)
+> Transformers learn in-context by gradient descent, *ICML 2023*, [link](https://arxiv.org/abs/2212.07677)
 
-> **Max-Margin Token Selection in Attention Mechanism**, *NeurIPS 2023*, [link](https://arxiv.org/abs/2306.13596)  
----
+> Max-Margin Token Selection in Attention Mechanism, *NeurIPS 2023*, [link](https://arxiv.org/abs/2306.13596)  
 
-> **Transformers learn to implement preconditioned gradient descent for in-context learning**, *NeurIPS 2023*, [link](https://arxiv.org/abs/2306.00297)
----
+> Transformers learn to implement preconditioned gradient descent for in-context learning, *NeurIPS 2023*, [link](https://arxiv.org/abs/2306.00297)
 
-> **Trained Transformers Learn Linear Models In-Context**, *JMLR*, [link](https://arxiv.org/pdf/2306.09927.pdf)
----
+> Trained Transformers Learn Linear Models In-Context, *JMLR*, [link](https://arxiv.org/pdf/2306.09927.pdf)
 
-> **In-context convergence of transformers**, *ICML 2024*, [link](https://arxiv.org/abs/2310.05249)
----
+> In-context convergence of transformers, *ICML 2024*, [link](https://arxiv.org/abs/2310.05249)
 
-> **Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning**, *NeurIPS 2023*, [link](https://arxiv.org/abs/2301.11916)
----
+> Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning, *NeurIPS 2023*, [link](https://arxiv.org/abs/2301.11916)
 
-> **In-Context Learning through the Bayesian Prism**, *ICLR 2024* [link](https://arxiv.org/abs/2306.04891)
----
+> In-Context Learning through the Bayesian Prism, *ICLR 2024* [link](https://arxiv.org/abs/2306.04891)
 
-> **What and How does In-Context Learning Learn? Bayesian Model Averaging, Parameterization, and Generalization**, [link](https://arxiv.org/abs/2305.19420)
----
+> What and How does In-Context Learning Learn? Bayesian Model Averaging, Parameterization, and Generalization**, [link](https://arxiv.org/abs/2305.19420)
 
-> **Birth of a Transformer: A Memory Viewpoint**, *NeurIPS 2023*, [link](https://arxiv.org/abs/2306.00802)
----
+> Birth of a Transformer: A Memory Viewpoint, *NeurIPS 2023*, [link](https://arxiv.org/abs/2306.00802)
 
-> **A Theory of Emergent In-Context Learning as Implicit Structure Induction**, [link](https://arxiv.org/pdf/2303.07971)
+> A Theory of Emergent In-Context Learning as Implicit Structure Induction, [link](https://arxiv.org/pdf/2303.07971)
 
 ### 2024
 
-> **How Do Nonlinear Transformers Learn and Generalize in In-Context Learning?**, *ICML 2024*, [link](https://openreview.net/forum?id=I4HTPws9P6)  
----
+> How Do Nonlinear Transformers Learn and Generalize in In-Context Learning?, *ICML 2024*, [link](https://openreview.net/forum?id=I4HTPws9P6)  
 
-> **How Transformers Learn Causal Structure with Gradient Descent**, *ICML 2024*, [link](https://arxiv.org/abs/2402.14735)  
----
+> How Transformers Learn Causal Structure with Gradient Descent, *ICML 2024*, [link](https://arxiv.org/abs/2402.14735)  
 
-> **How does Multi-Task Training Affect Transformer In-Context Capabilities? Investigations with Function Classes**, [link](https://arxiv.org/pdf/2404.03558)  
----
+> How does Multi-Task Training Affect Transformer In-Context Capabilities? Investigations with Function Classes, [link](https://arxiv.org/pdf/2404.03558)  
 
-> **Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?**, *ICML 2024*, [link](https://openreview.net/pdf?id=o8AaRKbP9K)
- ---
+> Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?, *ICML 2024*, [link](https://openreview.net/pdf?id=o8AaRKbP9K)
 
-> **How Well Can Transformers Emulate In-context Newton's Method?**, [link](https://arxiv.org/pdf/2403.03183)  
- ---
+> How Well Can Transformers Emulate In-context Newton's Method?, [link](https://arxiv.org/pdf/2403.03183)  
 
-> **In-Context Learning of a Linear Transformer Block: Benefits of the MLP Component and One-Step GD Initialization**, [link](https://arxiv.org/pdf/2402.14951)  
- ---
+> In-Context Learning of a Linear Transformer Block: Benefits of the MLP Component and One-Step GD Initialization, [link](https://arxiv.org/pdf/2402.14951)  
 
-> **The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains**, [link](https://arxiv.org/pdf/2402.11004)  
- ---
+> The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains, [link](https://arxiv.org/pdf/2402.11004)  
 
-> **Fine-grained Analysis of In-context Linear Estimation**, [link](https://openreview.net/pdf?id=1vM1a7KrC6)  
+> Fine-grained Analysis of In-context Linear Estimation, [link](https://openreview.net/pdf?id=1vM1a7KrC6)
+
+
+
 
 ## Diffusion Model
 
@@ -133,16 +121,18 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 - Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering, Sep, 2024, [(link)](https://arxiv.org/pdf/2407.01079)
 
 
-## Hallucination
-
-- Calibrated Language Models Must Hallucinate, [(link)](https://arxiv.org/abs/2311.14648)
-
-
 ## Chain-of-Thought
 
 - Dissecting Chain-of-Thought: Compositionality through In-Context Filtering and Learning. *NeurIPS 2023*, [(link)](https://arxiv.org/abs/2305.18869)
 
 - Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective. *NeurIPS 2023*, [(link)](https://www.arxiv.org/abs/2409.02426)
+
+
+## Hallucination
+
+- Calibrated Language Models Must Hallucinate, [(link)](https://arxiv.org/abs/2311.14648)
+
+
 
 
 ## How to Contribute
