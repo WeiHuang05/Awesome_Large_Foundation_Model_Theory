@@ -73,7 +73,13 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 > Fine-grained Analysis of In-context Linear Estimation, [link](https://openreview.net/pdf?id=1vM1a7KrC6)
 
-> Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context, [(link)](https://arxiv.org/abs/2410.01774)  
+> On Mesa-Optimization in Autoregressively Trained Transformers: Emergence and Capability, NeurIPS 2024, [link](https://arxiv.org/pdf/2405.16845)
+
+> Transformers are Minimax Optimal Nonparametric In-Context Learners, NeurIPS 2024, [link](https://arxiv.org/pdf/2408.12186)
+
+> Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context, [link](https://arxiv.org/abs/2410.01774)
+
+
 
 
 
