@@ -15,20 +15,13 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ## In Context Learning
 
-### 2022
+> What Can Transformers Learn In-Context? A Case Study of Simple Function Classes**, *NeurIPS 2022*, [link](https://arxiv.org/abs/2208.01066)  
 
-> **What Can Transformers Learn In-Context? A Case Study of Simple Function Classes**, *NeurIPS 2022*, [link](https://arxiv.org/abs/2208.01066)  
----
+> Data Distributional Properties Drive Emergent In-Context Learning in Transformers**, *NeurIPS 2022*, [link](https://arxiv.org/abs/2205.05055)  
 
-> **Data Distributional Properties Drive Emergent In-Context Learning in Transformers**, *NeurIPS 2022*, [link](https://arxiv.org/abs/2205.05055)  
----
+> In-context learning and induction heads**, *Transformer Circuits Thread, 2022*, [link](https://arxiv.org/abs/2209.11895)
 
-> **In-context learning and induction heads**, *Transformer Circuits Thread, 2022*, [link](https://arxiv.org/abs/2209.11895)
----
-
-> **An Explanation of In-context Learning as Implicit Bayesian Inference**, *ICLR 2022*, [link](https://arxiv.org/abs/2111.02080)
-
-### 2023
+> An Explanation of In-context Learning as Implicit Bayesian Inference**, *ICLR 2022*, [link](https://arxiv.org/abs/2111.02080)
 
 
 > **What learning algorithm is in-context learning? Investigations with linear models**, *ICLR 2023*, [link](https://arxiv.org/pdf/2211.15661.pdf)  
