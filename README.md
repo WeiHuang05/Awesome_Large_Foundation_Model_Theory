@@ -11,6 +11,7 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 2. [Diffusion Model](#diffusion-model)
 3. [Hallucination](#Hallucination)
 4. [Chain-of-Thought](#Chain-of-Thought)
+5. [Reasoning](#Reasoning)
  
 
 ## In Context Learning
@@ -135,14 +136,17 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ## Chain-of-Thought
 
-- Dissecting Chain-of-Thought: Compositionality through In-Context Filtering and Learning. *NeurIPS 2023*, [(link)](https://arxiv.org/abs/2305.18869)
+> Dissecting Chain-of-Thought: Compositionality through In-Context Filtering and Learning. *NeurIPS 2023*, [(link)](https://arxiv.org/abs/2305.18869)
 
-- Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective. *NeurIPS 2023*, [(link)](https://www.arxiv.org/abs/2409.02426)
+> Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective. *NeurIPS 2023*, [(link)](https://www.arxiv.org/abs/2409.02426)
 
 
 ## Hallucination
 
-- Calibrated Language Models Must Hallucinate, [(link)](https://arxiv.org/abs/2311.14648)
+> Calibrated Language Models Must Hallucinate, [(link)](https://arxiv.org/abs/2311.14648)
+
+## Reasoning
+
 
 
 
