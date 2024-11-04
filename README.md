@@ -140,6 +140,9 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 > Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective. *NeurIPS 2023*, [(link)](https://www.arxiv.org/abs/2409.02426)
 
+> Chain of Thought Empowers Transformers to Solve Inherently Serial Problems. *ICLR 2024*, [(link)](https://arxiv.org/abs/2402.12875)
+
+
 
 ## Hallucination
 
