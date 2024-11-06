@@ -12,6 +12,7 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 3. [Hallucination](#Hallucination)
 4. [Chain-of-Thought](#Chain-of-Thought)
 5. [Reasoning](#Reasoning)
+6. [State Space Models](#State_space_models)
  
 
 ## In Context Learning
@@ -151,7 +152,9 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 ## Reasoning
 
 
+## State Space Models
 
+> Repeat After Me: Transformers are Better than State Space Models at Copying, *ICML 2024*, [(link)](https://openreview.net/pdf?id=duRRoGeoQT)
 
 
 ## How to Contribute
