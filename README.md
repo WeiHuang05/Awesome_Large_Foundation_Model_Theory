@@ -151,7 +151,8 @@ Large Foundation Modal Theory examines the ways in which learning is enhanced wh
 
 ## Reasoning
 
-> 
+> How Much Can RAG Help the Reasoning of LLM? [(link)](https://arxiv.org/abs/2410.02338)
+
 
 ## State Space Models
 
